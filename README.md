@@ -7,9 +7,9 @@
     <p>I tried to cover most of operations including outputs for invalid inputs</p>
 <br>
 	<h2>Basic Instructions before running project</h2>
-	<li>
-	<ul>After downloading project from git and once you finish the importing of project into your respective IDE. Create database with name <strong>'ss'</strong> in MySql.</ul>
-	<ul>Change the username and password of MySql in application.properties file.</ul>
-	<ul>Once run project (phase-3-project/src/main/java/com/ss/Phase3ProjectApplication.java) as java application, by this tables will be created in Database.</ul>
-	<ul>Now add username and password data in Admin table in the database or you can use command <strong>INSERT INTO Admin values ("admin","password"); .</strong></ul>
-	</li>
+	<ul>
+	<li>After downloading project from git and once you finish the importing of project into your respective IDE. Create database with name <strong>'ss'</strong> in MySql.</li>
+	<li>Change the username and password of MySql in application.properties file.</li>
+	<li>Once run project (phase-3-project/src/main/java/com/ss/Phase3ProjectApplication.java) as java application, by this tables will be created in Database.</li>
+	<li>Now add username and password data in Admin table in the database or you can use command <strong>INSERT INTO Admin values ("admin","password"); .</strong></li>
+	</ul>
